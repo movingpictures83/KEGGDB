@@ -1,0 +1,2 @@
+organism	mmu
+pathways	pathways.txt

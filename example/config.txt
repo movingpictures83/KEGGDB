@@ -1,0 +1,2 @@
+Prefix plugins/KEGGDB/example/
+Plugin KEGGDB inputfile parameters.keggdb.txt outputfile my_database
